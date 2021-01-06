@@ -15,8 +15,8 @@ Frontend used: Angular, TypeScript, HTML, and CSS
 
 <hr>
 <p align="center"> 
- You could find <b>backend <a href="https://github.com/conanlv290/MovieShop.Backend.git">here</a>
+ You could find <b>backend</b> <a href="https://github.com/conanlv290/MovieShop.Backend.git">here</a>
 </p>
 <p align="center"> 
- And <b>frontend <a href="https://github.com/conanlv290/MovieShop.Frontend.git">here</a>
+ And <b>frontend</b> <a href="https://github.com/conanlv290/MovieShop.Frontend.git">here</a>
 </p>
